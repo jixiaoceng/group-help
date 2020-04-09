@@ -1,2 +1,0 @@
-# group-help
-vuePress
